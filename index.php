@@ -50,7 +50,7 @@
 					</li>
 					<li class="col col-tablet-wide-3 col-phablet-12 col-phone-12">
 						<div class="product-box">
-							<a href="produtosurano.php"><img src="images/products/urano.jpg"></a>
+							<a href="produtosurano.php"><img src="images/products/urano.png"></a>
 							
 						</div>
 					</li>
