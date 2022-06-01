@@ -1,0 +1,1105 @@
+
+  [
+    {
+      "id": 1,
+      "cod": "01.011.00001",
+      "nome": "Teclado Ramuza DCR CL 15 Bat.  c/ 10vias"
+    },
+    {
+      "id": 2,
+      "cod": "01.011.00002",
+      "nome": "Teclado Ramuza DCR CL 15 Bat. c/ 8vias"
+    },
+    {
+      "id": 3,
+      "cod": "01.011.00003",
+      "nome": "Teclado Ramuza DCR 15 c/ 10vias"
+    },
+    {
+      "id": 4,
+      "cod": "01.011.00004",
+      "nome": "Teclado Ramuza DCR 15 c/ 8vias"
+    },
+    {
+      "id": 5,
+      "cod": "01.011.00005",
+      "nome": "Teclado Ramuza DCR CL 6/15/30 Bat. c/ 8vias"
+    },
+    {
+      "id": 6,
+      "cod": "01.011.00006",
+      "nome": "Teclado Ramuza DCR CL 6/15/30 Bat. c/ 10 vias"
+    },
+    {
+      "id": 7,
+      "cod": "01.011.00007",
+      "nome": "Teclado Ramuza DCR CL 6/15 Bat. c/ 10vias"
+    },
+    {
+      "id": 8,
+      "cod": "01.011.00008",
+      "nome": "Teclado Ramuza DCR CL 6/15 Bat. c/ 8vias"
+    },
+    {
+      "id": 9,
+      "cod": "01.011.00009",
+      "nome": "Teclado Ramuza DCR CL 15 Bat. Preto c/ 10vias"
+    },
+    {
+      "id": 10,
+      "cod": "01.011.00010",
+      "nome": "Teclado Ramuza DCR CL 15 Bat. Preto c/ 8vias"
+    },
+    {
+      "id": 11,
+      "cod": "01.011.00011",
+      "nome": "Teclado Ramuza DCR CL 15 Preto  c/ 10vias"
+    },
+    {
+      "id": 12,
+      "cod": "01.011.00012",
+      "nome": "Teclado Ramuza DCR CL 6/15 preto c/ 8 vias"
+    },
+    {
+      "id": 13,
+      "cod": "01.011.00013",
+      "nome": "Teclado Ramuza DCR CL 6/15 Preto c/ 10vias"
+    },
+    {
+      "id": 14,
+      "cod": "01.011.00014",
+      "nome": "Teclado Ramuza DCR CL 6/15 Bat. Preto c/ 8vias"
+    },
+    {
+      "id": 15,
+      "cod": "01.011.00015",
+      "nome": "Teclado Ramuza DCR CL 6/15 Bat. Preto c/ 10vias"
+    },
+    {
+      "id": 16,
+      "cod": "01.011.00016",
+      "nome": "Teclado Ramuza DCR CL 6/15/30 Preto c/ 8 vias"
+    },
+    {
+      "id": 17,
+      "cod": "01.011.00017",
+      "nome": "Teclado Ramuza DCR CL 6/15/30 Preto c/ 10vias"
+    },
+    {
+      "id": 18,
+      "cod": "01.011.00018",
+      "nome": "Teclado Ramuza DCR CL 6/15/30 Bat. Preto c/ 8vias"
+    },
+    {
+      "id": 19,
+      "cod": "01.011.00019",
+      "nome": "Teclado Ramuza DCR CL 6/15/30 Bat. Preto c/ 10 vias"
+    },
+    {
+      "id": 20,
+      "cod": "01.011.00020",
+      "nome": "Teclado Ramuza DCR CL 3/6/15 c/ 8 vias"
+    },
+    {
+      "id": 21,
+      "cod": "01.011.00021",
+      "nome": "Teclado Ramuza DCR CL 3/6/15 c/10 vias"
+    },
+    {
+      "id": 22,
+      "cod": "01.011.00022",
+      "nome": "Teclado Ramuza DCR CL 3/6/15 Bat.   c/ 8 vias"
+    },
+    {
+      "id": 23,
+      "cod": "01.011.00023",
+      "nome": "Teclado Ramuza DCR CL 3/6/15 Bat. c/ 10 vias"
+    },
+    {
+      "id": 24,
+      "cod": "01.011.00024",
+      "nome": "Teclado Ramuza DCR CL 6 c/  8vias"
+    },
+    {
+      "id": 25,
+      "cod": "01.011.00025",
+      "nome": "Teclado Ramuza DCR CL 6 c/ 10vias"
+    },
+    {
+      "id": 26,
+      "cod": "01.011.00026",
+      "nome": "Teclado Ramuza DCR CL 6 Bat. c/ 8 vias"
+    },
+    {
+      "id": 27,
+      "cod": "01.011.00027",
+      "nome": "Teclado Ramuza DCR CL 6 Bat. c/ 10 vias"
+    },
+    {
+      "id": 28,
+      "cod": "01.011.00028",
+      "nome": "Teclado Ramuza DCR CL 3/6 c/ 8vias"
+    },
+    {
+      "id": 29,
+      "cod": "01.011.00029",
+      "nome": "Teclado Ramuza DCR CL 3/6  c/10vias"
+    },
+    {
+      "id": 30,
+      "cod": "01.011.00030",
+      "nome": "Teclado Ramuza DCR CL 3/6 Bat. c/ 8 vias"
+    },
+    {
+      "id": 31,
+      "cod": "01.011.00031",
+      "nome": "Teclado Ramuza DCR CL 3/6 Bat. c/ 10 vias"
+    },
+    {
+      "id": 32,
+      "cod": "01.011.00032",
+      "nome": "Teclado Ramuza DCR CL 30 ECO c/ Bat.  Preto c/ 10 vias"
+    },
+    {
+      "id": 33,
+      "cod": "01.011.00033",
+      "nome": "Teclado Ramuza DCR 6 Bat. c/ 8 vias"
+    },
+    {
+      "id": 34,
+      "cod": "01.011.00034",
+      "nome": "Teclado Ramuza DCR 6 Bat. c/ 10vias"
+    },
+    {
+      "id": 35,
+      "cod": "01.011.00035",
+      "nome": "Teclado Ramuza DPR 6 c/ 8 vias"
+    },
+    {
+      "id": 36,
+      "cod": "01.011.00036",
+      "nome": "Teclado Ramuza DPR 6 c/ 10vias"
+    },
+    {
+      "id": 37,
+      "cod": "01.011.00037",
+      "nome": "Teclado Ramuza DPR 15 c/ 8 vias"
+    },
+    {
+      "id": 38,
+      "cod": "01.011.00038",
+      "nome": "Teclado Ramuza DPR 15 c/ 10vias"
+    },
+    {
+      "id": 39,
+      "cod": "01.011.00039",
+      "nome": "Teclado Ramuza DPR 30 c/ 8 vias"
+    },
+    {
+      "id": 40,
+      "cod": "01.011.00040",
+      "nome": "Teclado Ramuza DPR 30 c/ 10 vias"
+    },
+    {
+      "id": 41,
+      "cod": "01.911.00001",
+      "nome": "Teclado Ramuza DCR CL  c/ 8 vias"
+    },
+    {
+      "id": 42,
+      "cod": "01.911.00002",
+      "nome": "Teclado Ramuza DCR CL c/ 10 vias"
+    },
+    {
+      "id": 43,
+      "cod": "01.911.00003",
+      "nome": "Teclado Ramuza DCR c/ 8 vias"
+    },
+    {
+      "id": 44,
+      "cod": "01.911.00004",
+      "nome": "Teclado Ramuza DCR c/ 10 vias"
+    },
+    {
+      "id": 45,
+      "cod": "01.911.00005",
+      "nome": "Teclado Ramuza DCR CL Preto  c/ 8 vias"
+    },
+    {
+      "id": 46,
+      "cod": "01.911.00006",
+      "nome": "Teclado Ramuza DCR CL Preto c/ 10 vias"
+    },
+    {
+      "id": 47,
+      "cod": "01.911.00007",
+      "nome": "Teclado Ramuza DPR c/ 8 vias"
+    },
+    {
+      "id": 48,
+      "cod": "01.911.00008",
+      "nome": "Teclado Ramuza DPR c/ 10vias"
+    },
+    {
+      "id": 49,
+      "cod": "01.011.00150",
+      "nome": "Visor traseiro DCR CL  15  bco Bateria"
+    },
+    {
+      "id": 50,
+      "cod": "01.011.00151",
+      "nome": "visor traseiro DCR CL 6/15 bco Bateria"
+    },
+    {
+      "id": 51,
+      "cod": "01.011.00152",
+      "nome": "visor traseiro DCR CL 3/6/15 bco Bateria"
+    },
+    {
+      "id": 52,
+      "cod": "01.011.00153",
+      "nome": "visor traseiro  DCR CL 30 bco Bateria"
+    },
+    {
+      "id": 53,
+      "cod": "01.011.00154",
+      "nome": "visor traseiro DCR CL 15/30 bco Bateria"
+    },
+    {
+      "id": 54,
+      "cod": "01.011.00155",
+      "nome": "visor traseiro DCR CL 15 pto Bateria"
+    },
+    {
+      "id": 55,
+      "cod": "01.011.00156",
+      "nome": "visor traseiro DCR CL 6/15 pto Bateria"
+    },
+    {
+      "id": 56,
+      "cod": "01.011.00157",
+      "nome": "visor traseiro DCR CL 6/15/30 pto Bateria"
+    },
+    {
+      "id": 57,
+      "cod": "01.011.00158",
+      "nome": "visor traseiro DCR CL 30 pto Bateria"
+    },
+    {
+      "id": 58,
+      "cod": "01.011.00163",
+      "nome": "visor traseiro DCR 15 bco"
+    },
+    {
+      "id": 59,
+      "cod": "01.011.00164",
+      "nome": "visor traseiro DCR 15 bco Bateria"
+    },
+    {
+      "id": 60,
+      "cod": "01.011.00165",
+      "nome": "visor traseiro DCR  6/15 bco"
+    },
+    {
+      "id": 61,
+      "cod": "01.011.00166",
+      "nome": "visor traseiro DCR 6/15/30 bco"
+    },
+    {
+      "id": 62,
+      "cod": "01.011.00167",
+      "nome": "visor traseiro 6/15 bco Bateria"
+    },
+    {
+      "id": 63,
+      "cod": "01.011.00169",
+      "nome": "visor traseiro DCR 30 bco"
+    },
+    {
+      "id": 64,
+      "cod": "01.011.00170",
+      "nome": "visor traseiro DCR 30 bco Bateria"
+    },
+    {
+      "id": 65,
+      "cod": "01.011.00177",
+      "nome": "visor traseiro CR pto"
+    },
+    {
+      "id": 66,
+      "cod": "01.012.00001",
+      "nome": "Teclado IDR 10000 c/ 10 vias"
+    },
+    {
+      "id": 67,
+      "cod": "01.012.00002",
+      "nome": "Teclado IDR 10000 c/ janela - 10vias"
+    },
+    {
+      "id": 68,
+      "cod": "01.012.00003",
+      "nome": "teclado  IDR  10000  8vias c/ janela"
+    },
+    {
+      "id": 69,
+      "cod": "01.012.00004",
+      "nome": "Teclado IDR 10000 c/ janela"
+    },
+    {
+      "id": 70,
+      "cod": "01.012.00007",
+      "nome": "Teclado IDR 7500"
+    },
+    {
+      "id": 71,
+      "cod": "01.013.00001",
+      "nome": "Teclado Atena l  6/15"
+    },
+    {
+      "id": 72,
+      "cod": "01.013.00002",
+      "nome": "Teclado Atena l 15/30"
+    },
+    {
+      "id": 73,
+      "cod": "01.013.00031",
+      "nome": "Visor da Torre Atena l 15/30"
+    },
+    {
+      "id": 74,
+      "cod": "01.013.00032",
+      "nome": "Visor cego da Torre Atena l 6/15"
+    },
+    {
+      "id": 75,
+      "cod": "01.013.00033",
+      "nome": "Visor cego da Torre Atena l 15/30"
+    },
+    {
+      "id": 76,
+      "cod": "01.013.00034",
+      "nome": "Visor da Torre Atena l 6/15"
+    },
+    {
+      "id": 77,
+      "cod": "01.014.00001",
+      "nome": "Placa/PCI  frontal DCR CL"
+    },
+    {
+      "id": 78,
+      "cod": "01.014.00002",
+      "nome": "Placa visor traseiro DCR CL"
+    },
+    {
+      "id": 79,
+      "cod": "01.014.00003",
+      "nome": "Placa display frontal DCR"
+    },
+    {
+      "id": 80,
+      "cod": "01.014.00004",
+      "nome": "Placa display traseiro DCR"
+    },
+    {
+      "id": 81,
+      "cod": "01.014.00005",
+      "nome": "Placa IDR 7500"
+    },
+    {
+      "id": 82,
+      "cod": "01.014.00006",
+      "nome": "Placa display IDR 10000/IM"
+    },
+    {
+      "id": 83,
+      "cod": "01.014.00007",
+      "nome": "Placa/PCI IDR 10000/IM"
+    },
+    {
+      "id": 84,
+      "cod": "01.014.00008",
+      "nome": "Placa Fonte DCR/IDR 10000/IM"
+    },
+    {
+      "id": 85,
+      "cod": "01.015.00001",
+      "nome": "Celular de carga GL 3 kg"
+    },
+    {
+      "id": 86,
+      "cod": "01.015.00002",
+      "nome": "Celula de Carga GL 6 kg"
+    },
+    {
+      "id": 87,
+      "cod": "01.015.00003",
+      "nome": "Celula de Carga GL 10kg"
+    },
+    {
+      "id": 88,
+      "cod": "01.015.00005",
+      "nome": "Celula de Carga GL 20 kg"
+    },
+    {
+      "id": 89,
+      "cod": "01.015.00008",
+      "nome": "Celula de Carga GL 40kg"
+    },
+    {
+      "id": 90,
+      "cod": "01.015.00015",
+      "nome": "Celula de Carga G 100 kg c/ furação quadrada"
+    },
+    {
+      "id": 91,
+      "cod": "01.015.00023",
+      "nome": "Celula de Carga G 400 c/ furação quadrada"
+    },
+    {
+      "id": 92,
+      "cod": "01.015.00024",
+      "nome": "Celula de Carga G 400 c/ furação hexagonal"
+    },
+    {
+      "id": 93,
+      "cod": "01.017.00001",
+      "nome": "Fonte Externa 7,5 v  500ma"
+    },
+    {
+      "id": 94,
+      "cod": "01.017.00002",
+      "nome": "Epron IDR 10000/IM"
+    },
+    {
+      "id": 95,
+      "cod": "01.017.00004",
+      "nome": "Epron DCR"
+    },
+    {
+      "id": 96,
+      "cod": "01.017.00008",
+      "nome": "Pé nivelador DCR/CL"
+    },
+    {
+      "id": 97,
+      "cod": "01.017.00009",
+      "nome": "Pé nivelador da Base IDR"
+    },
+    {
+      "id": 98,
+      "cod": "02.021.00001",
+      "nome": "Teclado DST branco"
+    },
+    {
+      "id": 99,
+      "cod": "02.021.00002",
+      "nome": "Teclado DST Azul"
+    },
+    {
+      "id": 100,
+      "cod": "02.021.00003",
+      "nome": "Teclado DST Verde"
+    },
+
+{
+      "id": 101,
+      "cod": "02.021.00004",
+      "nome": "Teclado DST Cinza"
+    },
+
+{
+      "id": 102,
+      "cod": "02.021.00005",
+      "nome": "Teclado DST Preto"
+    },
+
+{
+      "id": 103,
+      "cod": "02.021.00051",
+      "nome": "Teclado DST P  Azul"
+    },
+
+{
+      "id": 104,
+      "cod": "02.021.00052",
+      "nome": "Teclado DST P Cinza"
+    },
+
+{
+      "id": 105,
+      "cod": "02.021.00053",
+      "nome": "Teclado DST P Brancos"
+    },
+
+{
+      "id": 106,
+      "cod": "02.021.00054",
+      "nome": "Teclado DST P Azul"
+    },
+
+{
+      "id": 107,
+      "cod": "02.021.00055",
+      "nome": "Teclado DST P Preto"
+    },
+
+{
+      "id": 108,
+      "cod": "02.021.00071",
+      "nome": "Mascara do Teclado DST MAX"
+    },
+
+{
+      "id": 109,
+      "cod": "02.021.00152",
+      "nome": "Visor traseiro DST 15-DM Verde"
+    },
+
+{
+      "id": 110,
+      "cod": "02.021.00153",
+      "nome": "Visor Traseiro DST 15-DM Cinza"
+    },
+
+{
+      "id": 111,
+      "cod": "02.021.00154",
+      "nome": "Visor Traseiro DST 15-DM Azul"
+    },
+
+{
+      "id": 112,
+      "cod": "02.024.00001",
+      "nome": "Placa Display frontal DST Max"
+    },
+
+{
+      "id": 113,
+      "cod": "02.024.00002",
+      "nome": "Placa Fonte DST Max"
+    },
+    {
+      "id": 114,
+      "cod": "02.026.00001",
+      "nome": "Epron DST Max 15/30  V021"
+    },
+
+{
+      "id": 115,
+      "cod": "02.027.00001",
+      "nome": "Transformador DST"
+    },
+
+{
+      "id": 116,
+      "cod": "02.027.00050",
+      "nome": "Membrana de silicone DST Max"
+    },
+
+{
+      "id": 117,
+      "cod": "02.027.00051",
+      "nome": "Capa Transparente do Teclado DST Max"
+    },
+
+{
+      "id": 118,
+      "cod": "02.027.00165",
+      "nome": "Recolhedor do Lainer Impressora EST-10"
+    },
+
+{
+      "id": 119,
+      "cod": "02.027.00166",
+      "nome": "Correia da fita Impressora EST-10"
+    },
+
+{
+      "id": 120,
+      "cod": "02.027.00195",
+      "nome": "Cabo de força DST Max"
+    },
+
+{
+      "id": 121,
+      "cod": "01.011.00159",
+      "nome": "Visor traseiro DCR  15  Bateria"
+    },
+
+{
+      "id": 122,
+      "cod": "01.011.00160",
+      "nome": "Visor traseiro DPR 15"
+    },
+
+{
+      "id": 123,
+      "cod": "03.031.00001",
+      "nome": "Teclado Urano Top Max preto 40 teclado"
+    },
+
+{
+      "id": 124,
+      "cod": "03.031.00002",
+      "nome": "Teclado Urano Top Max preto"
+    },
+
+{
+      "id": 125,
+      "cod": "03.031.00003",
+      "nome": "Teclado Urano Top Max Azul"
+    },
+
+{
+      "id": 126,
+      "cod": "03.031.00004",
+      "nome": "Teclado Urano US 15/5"
+    },
+
+{
+      "id": 127,
+      "cod": "03.031.00005",
+      "nome": "Teclado Urano Pop Azul"
+    },
+    {
+      "id": 128,
+      "cod": "03.031.00006",
+      "nome": "Teclado Urano Pop Light"
+    },
+
+{
+      "id": 129,
+      "cod": "03.031.00007",
+      "nome": "Teclado Urano Maximus US 30/2"
+    },
+
+{
+      "id": 130,
+      "cod": "03.031.00008",
+      "nome": "Teclado Urano Importada US 15/5"
+    },
+
+{
+      "id": 131,
+      "cod": "03.031.00009",
+      "nome": "Teclado Urano UR 2000"
+    },
+
+{
+      "id": 132,
+      "cod": "03.031.00041",
+      "nome": "Mascara do Teclado Pop Z"
+    },
+
+{
+      "id": 133,
+      "cod": "03.031.00042",
+      "nome": "Mascara do Teclado Pop S"
+    },
+
+{
+      "id": 134,
+      "cod": "03.031.00043",
+      "nome": "Mascara do Teclado Pop S - cinza"
+    },
+
+{
+      "id": 135,
+      "cod": "03.031.00050",
+      "nome": "Mascara Cega do Teclado CP Pop"
+    },
+
+{
+      "id": 136,
+      "cod": "03.031.00081",
+      "nome": "Visor Frontal UDC CO 30/10"
+    },
+
+{
+      "id": 137,
+      "cod": "03.031.00093",
+      "nome": "Visor UR 10000 Light"
+    },
+
+{
+      "id": 138,
+      "cod": "03.031.00096",
+      "nome": "Visor Frontal UDC 20/2 Pop"
+    },
+
+{
+      "id": 139,
+      "cod": "03.031.00097",
+      "nome": "Visor Frontal Pop Z US 20/2"
+    },
+
+{
+      "id": 140,
+      "cod": "03.031.00098",
+      "nome": "Visor Frontal Urano Pop Z US 15/5"
+    },
+
+{
+      "id": 141,
+      "cod": "03.031.00099",
+      "nome": "Visor Frontal Urano Pop S US 20/2"
+    },
+    {
+      "id": 142,
+      "cod": "03.031.00100",
+      "nome": "Visor Frontal Urano Pop S US 15/5"
+    },
+
+{
+      "id": 143,
+      "cod": "03.031.00101",
+      "nome": "Visor Frontal Urano Pop S   US 15/5 - Cinza"
+    },
+
+{
+      "id": 144,
+      "cod": "03.031.00102",
+      "nome": "Visor Frontal Urano US 20/2  Pop Light"
+    },
+
+{
+      "id": 145,
+      "cod": "03.031.00103",
+      "nome": "Visor Frontal Urano Pop US 15/5 Pop Light"
+    },
+
+{
+      "id": 146,
+      "cod": "03.031.00104",
+      "nome": "Visor Urano Frontal Pop Azul  US 20/2"
+    },
+
+{
+      "id": 147,
+      "cod": "03.031.00105",
+      "nome": "Visor Frontal Urano Pop Azul US 15/5"
+    },
+
+{
+      "id": 148,
+      "cod": "03.031.00106",
+      "nome": "Visor Frontal Urano US 15/5"
+    },
+
+{
+      "id": 149,
+      "cod": "03.031.00107",
+      "nome": "Visor Top Max Preto US 30/2 MD"
+    },
+
+{
+      "id": 150,
+      "cod": "03.031.00108",
+      "nome": "Visor Frontal Urano CP Pop Azul c/ Janela"
+    },
+
+{
+      "id": 151,
+      "cod": "03.031.00095",
+      "nome": "Visor Frontal UDC 20/2 Pop"
+    },
+
+{
+      "id": 152,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 153,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 154,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 155,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+    {
+      "id": 156,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 157,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 158,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 159,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 160,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 161,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 162,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 163,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 164,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 165,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 166,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 167,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 168,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 169,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+    {
+      "id": 170,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 171,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 172,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 173,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 174,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 175,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 176,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 177,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 178,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 179,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 180,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 181,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 182,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 183,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+    {
+      "id": 184,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 185,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 186,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 187,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 188,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 189,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 190,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 191,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 192,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 193,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 194,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 195,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 196,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 197,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+    {
+      "id": 198,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 199,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+{
+      "id": 200,
+      "cod": "01.014.00004",
+      "nome": ""
+    },
+
+
+
+    {
+      "id": 9000,
+      "cod": "01.011.09000",
+      "nome": "nao existe"
+    }
+  ]
+  
